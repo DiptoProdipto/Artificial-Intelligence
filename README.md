@@ -1,2 +1,2 @@
 # Artificial-Intelligence
-This repository contains Python programs
+This repository contains Machine Learning programs
